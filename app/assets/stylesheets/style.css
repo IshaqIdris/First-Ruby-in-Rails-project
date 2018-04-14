@@ -1,0 +1,88 @@
+body{
+	background-image : url("money.gif");
+	background-size : 100%
+}
+
+h1{
+	font-family : Arial;
+	background-image : url("glitch.gif");
+	background-size : 10%;
+	float: center;
+}
+
+h2{
+	color: red;
+}
+
+p{
+	color: green;
+	font-weight : bold;
+	font-style : italic;
+	font-size: 20px;
+}
+
+img{
+	float:center;
+}
+
+ul{
+	color: white;
+}
+
+#example{
+	font-style: italic;
+}
+
+#navigation{
+	list-style-type : none;
+	margin:10px;
+	padding: 10px;
+	text-align: center;
+	background-color: #333;
+	overflow: hidden;
+}
+
+#navigation a {
+	display :block;
+	width : 300px;
+	text-decoration : none;
+	padding: 14px 16px;
+	background-color: grey;
+	border-color: : green;
+}
+
+#navigation li {
+	float: left;
+	background-color: grey;
+}
+
+#navigation li a:hover{
+	background-color: red;
+}
+
+#navigation a:link{
+	color:white;
+
+}
+
+#navigation h4 {
+	display :block;
+	width : 300px;
+	text-decoration : none;
+	background-color: grey;
+	border-color: : green;
+}
+
+#navigation select {
+	display :block;
+	width : 300px;
+	text-decoration : none;
+	padding: 14px 16px;
+	background-color: green;
+	border-color: : green;
+}
+
+#cheese {
+	color:white;
+	fo
+}
